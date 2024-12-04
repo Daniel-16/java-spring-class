@@ -10,11 +10,7 @@ public class User {
 
     @NonNull
     private String fullName;
-
-    @NonNull
     private String password;
-
-    @NonNull
     private String email;
     
 
